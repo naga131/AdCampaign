@@ -1,5 +1,14 @@
 # AdCampaign
 
+
+# TO Run the code:
+
+1) Go to the root folder 
+run : mvn clean isntall
+then run: mvn tomcat7:run
+
+which runs application on 8080
+
 # Below are the request responses
 # get: http://localhost:8080/adServer/ads
 
